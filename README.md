@@ -37,9 +37,11 @@ I used My SQL to answer the questions
 and Power BI for visualization
 
 
+
+
 ## 10 Ad-Hoc Requests and Answers:
 <u>  </u>  
-</br>
+
 
 ### 1. Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.
 
