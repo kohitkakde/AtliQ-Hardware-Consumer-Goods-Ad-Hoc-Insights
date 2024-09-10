@@ -89,4 +89,4 @@ and Power BI for visualization
 
 
 
-You can view the SQL code [here](https://github.com/kohitkakde/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/blob/main/Atliq%20Ad-Hoc%20code.sql).
+### You can view the SQL code [here](https://github.com/kohitkakde/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/blob/main/Atliq%20Ad-Hoc%20code.sql).
