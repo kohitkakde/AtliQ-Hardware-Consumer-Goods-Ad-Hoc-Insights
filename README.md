@@ -86,3 +86,7 @@ and Power BI for visualization
 ![Screenshot 2024-09-10 100331](https://github.com/user-attachments/assets/8fd743a9-d6e0-44cb-b8c0-6a5860a3c51c)
 
 ===============================================================================================================
+
+
+
+You can view the SQL code [here](https://github.com/kohitkakde/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/blob/main/Atliq%20Ad-Hoc%20code.sql).
