@@ -1,5 +1,8 @@
 # AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights
 
+
+[![SQL](https://img.shields.io/badge/SQL-Database%20Analysis-orange)](https://github.com/kohitkakde/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/blob/main/Atliq%20Ad-Hoc%20code.sql).
+
 AtliQ Hardware Consumer Goods: Ad-Hoc-Insights
 Project Overview and Problem Statement
 Atliq Hardware (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too. specializes in selling computers and accessories.
