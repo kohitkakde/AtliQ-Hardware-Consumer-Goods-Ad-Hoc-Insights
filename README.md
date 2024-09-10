@@ -12,18 +12,21 @@ This project is part of the data analytics boot camp at codebasics.
 
 video presentation link - https://www.linkedin.com/posts/akash-singh-dataanalyst_dataanalytics-codebasics-dataanalysis-activity-7192520947080290304-jSIo?utm_source=share&utm_medium=member_desktop
 
-Data Structure/ Data Modeling and Tools
+## Data Structure/ Data Modeling and Tools
+
 The 'gdb023' (atliq_hardware_db) database was provided to me to work on and it includes six main tables:
 
-dim_customer: contains customer-related data
-dim_product: contains product-related data
-fact_gross_price: contains gross price information for each product
-fact_manufacturing_cost: contains the cost incurred in the production of each product
-fact_pre_invoice_deductions: contains pre-invoice deductions information for each product
-fact_sales_monthly: contains monthly sales data for each product.
-Here is the Data Model that I have created in Power BI for the Visualization part -
+1. dim_customer: contains customer-related data
+2. dim_product: contains product-related data
+3. fact_gross_price: contains gross price information for each product
+4. fact_manufacturing_cost: contains the cost incurred in the production of each product
+5. fact_pre_invoice_deductions: contains pre-invoice deductions information for each product
+6. fact_sales_monthly: contains monthly sales data for each product.
 
-ad hoc data model
+
+Here is the Data Model that I have created in Power BI for the Visualization part -
+![atliq Hardware Modelling](https://github.com/user-attachments/assets/0699dddd-f869-4b2f-b8bb-ae534470366a)
+
 
 Tools used -
 
