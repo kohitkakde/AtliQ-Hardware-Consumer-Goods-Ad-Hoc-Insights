@@ -11,7 +11,6 @@ The management noticed that they did not get enough insights to make quick and s
 
 Now the company wants insights for 10 ad hoc / business requests.
 
-This project is part of the data analytics boot camp at codebasics.
 
 
 ## Data Structure/ Data Modeling and Tools
